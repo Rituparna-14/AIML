@@ -1,2 +1,2 @@
 # AIML
-Basic eamples on the aiml algorithms
+Basic examples on the aiml algorithms
